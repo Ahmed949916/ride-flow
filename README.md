@@ -32,7 +32,7 @@ A lightweight ride-hailing prototype designed for testing in smaller cities.
 ## Tech Stack 🛠️
 
 ### Frontend
-- React.js (Vite)
+- React.js 
 - Material-UI (MUI) for UI components
 - Context API for state management
 
