@@ -1,4 +1,5 @@
-# Mini Ride Booking System Prototype 🚖
+#RideFlow
+Mini Ride Booking System Prototype 🚖
 
 A lightweight ride-hailing prototype designed for testing in smaller cities.
 ## Features 
